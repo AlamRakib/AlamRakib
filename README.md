@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamrakib&label=Profile%20views&color=0e75b6&style=flat" alt="alamrakib" /> </p>
 
-- 🌱 I’m currently learning **AWS(Amazon Web Server)**
+- 🌱 I’m currently learning **Dragger,Hilt,Dependency Injection, AWS(Amazon Web Server)**
 
 - 💬 Ask me about **Andoid**
 
